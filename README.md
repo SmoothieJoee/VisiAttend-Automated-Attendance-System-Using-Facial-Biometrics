@@ -1,0 +1,2 @@
+# VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics
+VisiAttend is an AI-powered attendance system that automates tracking using facial biometrics. Built with OpenCV and Tkinter, it detects and recognizes faces through the LBPH algorithm, ensuring accurate, contactless identification. It enables secure registration, real-time logging, and efficient attendance management with a user-friendly interface
